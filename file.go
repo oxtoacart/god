@@ -1,5 +1,5 @@
 package god
 
 func CallMe() string {
-	return "d.v1"
+	return "d.v2"
 }
